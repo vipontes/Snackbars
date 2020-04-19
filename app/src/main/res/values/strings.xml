@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snackbars</string>
+    <string name="simple_message">Simple message</string>
+    <string name="action_message">Message with action</string>
+    <string name="custom_message">Custom message</string>
+    <string name="message_restored">Message is restored!</string>
+    <string name="undo">UNDO</string>
+</resources>
